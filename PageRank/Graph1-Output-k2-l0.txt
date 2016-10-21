@@ -1,0 +1,5 @@
+Computing (2-0) maximal soft cliques!
+0 1 4 
+0 3 4 
+2 3 
+END
